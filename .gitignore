@@ -1,0 +1,6 @@
+bilbo_env/
+__pycache__/
+.env
+.env.txt
+.claude/
+*.pyc
